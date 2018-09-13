@@ -1,0 +1,145 @@
+import time
+import pygame
+pygame.mixer.init()
+
+pygame.mixer.music.load("DaLAB.wav")
+pygame.mixer.music.play()
+print ("\n")
+print ("===============================phong===============================")
+print ("\n")
+
+time.sleep(22)
+
+#Thom
+print ("♪ Hôm nay ta thức dậy cũng như thường nhật ♪")
+time.sleep(6.15)
+
+print ("♪ Thấy thanh xuân ngày nào bỗng dưng trở lại ♪ ")
+time.sleep(6.3)
+
+print ("♪ Em soi gương cười duyên chẳng còn thấy đâu những vết đồi mồi ♪")
+time.sleep(6)
+
+print ("♪ Mặc một chiếc váy xinh ngồi chờ anh qua ♪")
+print ("\n")
+time.sleep(5.2)
+
+# Tho
+print ("♫ Anh sẽ đưa em quay trở về với những ngày hôm qua ♫")
+time.sleep(3.35)
+
+print ("♫ Khi mà bao lo toan bộn bề vẫn đang ở nơi xa ♫")
+time.sleep(3)
+
+print ("♫ Khi mà tuổi trẻ vẫn vương trên mái tóc ♫")
+time.sleep(3)
+
+print ("♫ Khi mà bầu trời vẫn một vẻ xanh trong ♫")
+time.sleep(2.9)
+
+print ("♫ Đời vẫn mênh mông chân ta ung dung bước ♫")
+time.sleep(2.65)
+
+print ("♫ Và tất cả những niềm mơ ước phía trước chẳng cách xa ♫")
+time.sleep(3)
+
+print ("♫ Lại chỉ có đôi ta ♫")
+time.sleep(2.8)
+
+print ("♫ Những ngày chỉ có đôi ta ♫")
+print ("\n")
+time.sleep(3.5)
+
+#thom
+print ("♪ Đưa em về thanh xuân ♪")
+time.sleep(2.5)
+print ("♪ Về những dấu yêu ban đầu ♪")
+time.sleep(3)
+print ("♪ Những âu lo cứ thế hững hờ qua tay ♪")
+time.sleep(5.5)
+print ("♪ Ta thêm lần đôi mươi ♪")
+time.sleep(2.8)
+print ("♪ Và những ước ao đã từng ♪")
+time.sleep(3.4)
+print ("♪ Ở một tầng mây khác riêng hai chúng ta ♪")
+print ("\n")
+time.sleep(5.12)
+
+#Long
+print ("♪ Thời gian cứ thế nhẹ trôi dẫu em vài lần luyến tiếc ♪")
+time.sleep(6.25)
+print ("♪ Màn đêm kéo những mộng mơ níu anh vào sâu mắt em ♪")
+time.sleep(4.4)
+print ("♪ Chặng đường ta bước cùng nhau như thước phim lưu trong ký ức ♪")
+time.sleep(5.6)
+print ("♪ Cả thanh xuân ta đã dành cho nhau ♪")
+print ("\n")
+time.sleep(6.71)
+
+#Cao
+print ("♫ Anh vẫn sẽ đưa tay về phía em chẳng chờ đợi điều gì ♫")
+time.sleep(3)
+print ("♫ Và anh vẫn sẽ đạp xe theo em vu vơ như xưa nhiều khi ♫")
+time.sleep(3.5)
+print ("♫ Bó hoa cài bên cửa, vẫn không lời nhắn gửi ♫")
+time.sleep(2.8)
+print ("♫ Dành trao em cả nước mắt đắng bên cạnh kia những nụ cười ♫")
+time.sleep(2.40)
+print ("♫ 30 năm trong đời từng ngậm ngùi bao nhiêu điều tiếc nuối ♫")
+time.sleep(2.85)
+print ("♫ Nhưng nếu một lần quay lại vẫn chọn cầm chặt tay em đến cuối ♫")
+time.sleep(3.6)
+print ("♫ Cùng viết lên chuyện đời đến khi chỉ còn một điều để nói ♫")
+time.sleep(3)
+print ("♫ Yes, I love you, baby. ♫")
+print ("\n")
+time.sleep(3)
+
+#Long
+print ("♪ Bình yên ghé thăm chiều nay ♪")
+time.sleep(3.85)
+print ("♪ Tuổi thanh xuân tô trời mây ♪")
+time.sleep(2.8)
+print ("♪ Buộc tia nắng anh nhẹ mang vào trong lá thư tay ♪")
+time.sleep(4.75)
+print ("♪ Những bỡ ngỡ trao về nhau, giọt nước mắt đôi tay khẽ lau ♪")
+time.sleep(5.15)
+print ("♪ Cho vụng về trao ta những lần đầu. ♪")
+print ("\n")
+time.sleep(6.3)
+
+
+print("♪ Đưa em về thanh xuân ♪")
+time.sleep(3.7)
+print("♪ Về những dấu yêu ban đầu ♪")
+time.sleep(3)
+print("♪ Những âu lo cứ thế hững hờ qua tay ♪")
+time.sleep(6.25)
+print("♪ Ta thêm lần đôi mươi ♪")
+time.sleep(2.65)
+print("♪ Và những ước ao đã từng ♪")
+time.sleep(3.5)
+print("♪ Ở một tầng mây khác riêng hai chúng ta ♪")
+time.sleep(3.78)
+print("♪ Đưa em về thanh xuân ♪")
+time.sleep(3.7)
+print("♪ Về những dấu yêu ban đầu ♪")
+time.sleep(3.55)
+print("♪ Những lo âu cứ thế hững hờ qua tay ♪")
+time.sleep(6)
+print("♪ Ta thêm lần đôi mươi ♪")
+time.sleep(2)
+print("♪ Và những ước ao đã từng ♪")
+time.sleep(3)
+print("♪ Ở một tầng mây khác riêng hai chúng ta ♪")
+time.sleep(6)
+print("♪ Hôm nay ta thức dậy cũng như thường nhật ♪")
+time.sleep(5)
+print("♪ Thấy thanh xuân ngày nào bỗng dưng trở lại ♪")
+time.sleep(6)
+print("♪ Em soi gương cười duyên chẳng còn thấy đâu những vết đồi mồi ♪")
+time.sleep(5)
+print("♪ Mặc một chiếc váy xinh ngồi chờ anh về ♪")
+print ("\n")
+time.sleep(8)
+print("*******************************END*******************************")
